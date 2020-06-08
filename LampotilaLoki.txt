@@ -1,0 +1,17 @@
+2020-06-03 20:33:43.464019, WERT: hakuvirhe!
+2020-06-03 20:33:44.759270, SAANA: hakuvirhe!
+2020-06-03 20:33:45.056861, Haettiin 5 paikkakunnan lämpötila
+2020-06-03 20:33:45.058847, --- Haku päättyy ---
+2020-06-03 20:34:59.666655, KILPISJÄRVI: hakuvirhe!
+2020-06-03 20:35:00.053214, Haettiin 5 paikkakunnan lämpötila
+2020-06-03 20:35:00.054222, --- Haku päättyy ---
+2020-06-03 20:37:09.655737, WASHINTGON: hakuvirhe!
+2020-06-03 20:37:09.687693, Haettiin 6 paikkakunnan lämpötila
+2020-06-03 20:37:09.689696, --- Haku päättyy ---
+2020-06-03 20:54:23.697199, WASHINRTON: hakuvirhe!
+2020-06-03 20:54:23.844527, Haettiin 4 paikkakunnan lämpötila
+2020-06-03 20:54:23.845536, --- Haku päättyy ---
+2020-06-03 20:56:39.852498, Haettiin 5 paikkakunnan lämpötila
+2020-06-03 20:56:39.853485, --- Haku päättyy ---
+2020-06-03 20:57:15.945892, Haettiin 5 paikkakunnan lämpötila
+2020-06-03 20:57:15.946894, --- Haku päättyy ---
